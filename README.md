@@ -50,8 +50,6 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/sentence--transformers-555555" alt="sentence-transformers"/>
   <img src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white" alt="spaCy"/>
-  <img src="https://img.shields.io/badge/BERTopic-555555" alt="BERTopic"/>
-  <img src="https://img.shields.io/badge/Cleanlab-555555" alt="Cleanlab"/>
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
