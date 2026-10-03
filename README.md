@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&center=true&vCenter=true&width=640&lines=PhD+candidate+in+Computer+Science+%40+University+of+Houston;Data-centric+AI+for+NLP;LLM+fine-tuning+and+evaluation" alt="PhD candidate in Computer Science at the University of Houston"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&center=true&vCenter=true&width=800&lines=PhD+candidate+in+Computer+Science+%40+University+of+Houston;Data-centric+AI+for+NLP;LLM+fine-tuning+and+evaluation" alt="PhD candidate in Computer Science at the University of Houston"/>
 </p>
 
 <p align="center">
